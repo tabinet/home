@@ -1,0 +1,50 @@
+@media (max-width: 1000px ) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  } 
+  .heading h2 {
+    font-size: 20px;
+  }
+    
+  footer {
+    text-align: center;
+  }
+
+}
+
+
+@media (max-width: 670px ) {
+  
+.header-right {
+    display: none;
+  }
+  .fas {
+    display: block;
+  }  
+  #menu {
+      display: block;
+  }
+  
+.top-wrapper {
+    text-align: center;
+}
+
+.top-wrapper h1 {
+  font-size: 24px;
+}
+
+.top-wrapper p {
+  font-size: 14px;
+}
+
+.kaisha,.kaisha tr,.kaisha td,.kaisha th {
+  display:block;
+ }
+
+.kaisha th {
+  width:auto;
+}
+.kaisha {
+  margin: 35px;
+}
+}
